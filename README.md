@@ -40,5 +40,10 @@ win-lite.site
 digiseller.market
 thebyrut.org
 ggsel.net
-apps.apple.com
 nxp.com
+te.com
+apple.com
+instagram.com
+youtube.ru
+youtube.com
+play.google.com
